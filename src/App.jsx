@@ -45,7 +45,6 @@ function App() {
           }}
           transition={{duration: 5, ease:"easeInOut", repeat:Infinity, repeatDelay:1}}
           >
-
           </motion.div>
 
         </motion.div>
