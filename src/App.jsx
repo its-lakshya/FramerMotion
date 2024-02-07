@@ -54,6 +54,7 @@ function App() {
             Subscribe
           </motion.button>
         </motion.div>
+        
         <motion.div variants={gridSquareVarients} className="bg-slate-800 aspect-square rounded-lg justify-center flex items-center gap-10"></motion.div>
         <motion.div variants={gridSquareVarients} className="bg-slate-800 aspect-square rounded-lg justify-center flex items-center gap-10"></motion.div>
         <motion.div variants={gridSquareVarients} className="bg-slate-800 aspect-square rounded-lg justify-center flex items-center gap-10"></motion.div>
