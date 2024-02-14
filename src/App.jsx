@@ -176,12 +176,14 @@ function App() {
           Motion with some TailwindCSS. If you enjoyed this video, please leave
           a like and also subscribe.
         </motion.p>
+
         <motion.p
           style={{ translateX: paragraphTwoValue }}
           className="text-slate-100 font-thin text-4xl w-1/2 mx-auto"
         >
           Have fun playing with Framer Motion. It is a very powerful library,
           when used properly. Add some life to your websites.
+          
         </motion.p>
       </section>
     </div>
