@@ -58,6 +58,7 @@ function App() {
   return (
     
     <div className="flex flex-col gap-10 overflow-x-hidden">
+      
       <motion.section
         variants={gridContainerVarients}
         initial="hidden"
@@ -185,6 +186,7 @@ function App() {
           when used properly. Add some life to your websites.
           
         </motion.p>
+        
       </section>
     </div>
   );
