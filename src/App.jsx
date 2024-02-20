@@ -96,7 +96,7 @@ function App() {
         </motion.div>
 
         <motion.div variants={gridSquareVarients} className="bg-slate-800 aspect-square rounded-lg justify-center flex items-center gap-10">
-          <motion.button whileTap={{scale:0.9}} whileHover={{scale:1.1, backgroundColor:'#d1d5db', color:'black'}} transition={{bounceDamping:0, bounceStiffness:600}} className='bg-emerald-600 py-4 w-1/2 rounded-lg text-2xl text-gray-100 font-light tracking-wide'>
+          <motion.button whileTap={{scale:0.8}} whileHover={{scale:1.1, backgroundColor:'#d1d5db', color:'black'}} transition={{bounceDamping:0, bounceStiffness:600}} className='bg-emerald-600 py-4 w-1/2 rounded-lg text-2xl text-gray-100 font-light tracking-wide'>
             Subscribe
           </motion.button>
         </motion.div>
